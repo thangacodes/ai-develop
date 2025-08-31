@@ -1,4 +1,4 @@
-# Aritificial Intelligence -AI
+# AI Develop:
 
 ```bash
 
