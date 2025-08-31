@@ -1,5 +1,7 @@
 # How to create Virtual Environment in Python?
 
+Python virtual environment is an isolated environment that allows us to install and manage Python packages separately from the system-wide Python installation.
+
 ```bash
 
 python -m venv aidevelop
