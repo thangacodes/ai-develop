@@ -1,0 +1,10 @@
+awscli  
+anthropic
+boto3 
+gTTS 
+langchain 
+langchain_aws  
+openai 
+requests
+streamlit
+transformers
